@@ -1,16 +1,9 @@
 function ExpenseItem() {
     return (<div>
         <div>
-            Date
-        </div>
-        <div>
-            <h2>
-                Title
-            </h2>
-        
-            <div>
-                Amount
-            </div>
+            <p>Food Rs 10</p>
+            <p>Petrol Rs 100</p>
+            <p>Movies Rs 200</p>
         </div>
     </div>);
 
